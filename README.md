@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koushik</h1>
-<h3 align="center">A passionate robotics developer from Chennai,India</h3>
+<h3 align="center">A dedicated enthusiast with an unwavering passion for the intricate worlds of robotics and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kou-shik2004&label=Profile%20views&color=0e75b6&style=flat" alt="kou-shik2004" /> </p>
 
