@@ -10,10 +10,10 @@
 
 ## What I'm up to
 
-- 🤖 Currently working on **Flipkart Grid 6.0 Robotics Development**
-- 🧠 Learning **SLAM for autonomous navigation and motion planning with MoveIt**
-- 👯 Looking to collaborate on **open source projects related to ROS**
-- 📫 How to reach me: **koushik20040804@gmail.com**
+- Currently working on **Flipkart Grid 6.0 Robotics Development**
+- Learning **SLAM for autonomous navigation and motion planning with MoveIt**
+- Looking to collaborate on **open source projects related to ROS**
+- How to reach me: **koushik20040804@gmail.com**
 
 ## Connect with me
 <p align="left">
