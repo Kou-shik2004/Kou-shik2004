@@ -1,6 +1,6 @@
 # Hey, I'm Koushik 👋
 
-I write software for robots, mostly in ROS 2 and C++. Getting a machine to move through the real world without embarrassing itself is harder than it sounds, and that's exactly why I like it.
+I write software for robots using ROS 2, mostly in C++. Getting a machine to move through the real world without embarrassing itself is harder than it sounds, and that's exactly why I like it.
 
 I learn by building things, breaking them, and paying attention to which one taught me more.
 
@@ -26,15 +26,3 @@ Currently deep in the robotics rabbit hole. No plans to climb out.
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kou-shik2004&theme=radical&hide_border=true&show_icons=true" alt="GitHub stats" />
-</p>
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kou-shik2004&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kou-shik2004&theme=radical&hide_border=true&layout=compact" alt="Top languages" />
-</p>
