@@ -1,6 +1,6 @@
 # Hey, I'm Koushik 👋
 
-I write software for robots using ROS 2, mostly in C++. Getting a machine to move through the real world without embarrassing itself is harder than it sounds, and that's exactly why I like it.
+I write software for robots in ROS2.
 
 I learn by building things, breaking them, and paying attention to which one taught me more.
 
